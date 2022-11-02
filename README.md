@@ -1,2 +1,2 @@
 # Snake-Game
-Tried creating a game of Snake using C++
+Created a game of Snake using C++
